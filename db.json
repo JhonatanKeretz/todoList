@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    {
+      "subject": "Exemplo",
+      "description": "Exemplo para teste",
+      "status": 1,
+      "dateOverdue": "2022-05-31",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "subject": "Novo",
+      "description": "nvooo",
+      "status": 1,
+      "dateOverdue": "2022-05-26",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "subject": "Jaine",
+      "description": "Jay Jay",
+      "status": 1,
+      "dateOverdue": "2022-05-26",
+      "userId": 3,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "tstes",
+      "email": "teste@teste.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "name": "jho",
+      "email": "jho@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 2
+    },
+    {
+      "name": "jaine n",
+      "email": "jainen@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 3
+    }
+  ]
+}
